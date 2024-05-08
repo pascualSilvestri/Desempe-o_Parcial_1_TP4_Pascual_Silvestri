@@ -11,7 +11,7 @@ namespace Desempeño_Parcial_1_TP4_Pascual_Silvestri
 {
 
 
-    public partial class WebForm1
+    public partial class WebForm4
     {
 
         /// <summary>
@@ -33,13 +33,13 @@ namespace Desempeño_Parcial_1_TP4_Pascual_Silvestri
         protected global::System.Web.UI.WebControls.Label Label1;
 
         /// <summary>
-        /// Control TextBox1.
+        /// Control TextBoxNombre.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxNombre;
 
         /// <summary>
         /// Control Label2.
@@ -51,22 +51,13 @@ namespace Desempeño_Parcial_1_TP4_Pascual_Silvestri
         protected global::System.Web.UI.WebControls.Label Label2;
 
         /// <summary>
-        /// Control DropDownList1.
+        /// Control TextBoxApellido.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
-
-        /// <summary>
-        /// Control SqlDataSource1.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource1;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxApellido;
 
         /// <summary>
         /// Control Button1.

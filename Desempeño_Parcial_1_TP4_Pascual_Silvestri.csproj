@@ -68,32 +68,40 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Web.config" />
-    <Content Include="createForm.aspx" />
-    <Content Include="modifyForm.aspx" />
-    <Content Include="listPeliculas.aspx" />
+    <Content Include="createPeliculasForm.aspx" />
+    <Content Include="peliculas.aspx" />
+    <Content Include="createDirectores.aspx" />
+    <Content Include="directores.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="createForm.aspx.cs">
-      <DependentUpon>createForm.aspx</DependentUpon>
+    <Compile Include="createPeliculasForm.aspx.cs">
+      <DependentUpon>createPeliculasForm.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="createForm.aspx.designer.cs">
-      <DependentUpon>createForm.aspx</DependentUpon>
+    <Compile Include="createPeliculasForm.aspx.designer.cs">
+      <DependentUpon>createPeliculasForm.aspx</DependentUpon>
     </Compile>
-    <Compile Include="modifyForm.aspx.cs">
-      <DependentUpon>modifyForm.aspx</DependentUpon>
+    <Compile Include="peliculas.aspx.cs">
+      <DependentUpon>peliculas.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="modifyForm.aspx.designer.cs">
-      <DependentUpon>modifyForm.aspx</DependentUpon>
+    <Compile Include="peliculas.aspx.designer.cs">
+      <DependentUpon>peliculas.aspx</DependentUpon>
     </Compile>
-    <Compile Include="listPeliculas.aspx.cs">
-      <DependentUpon>listPeliculas.aspx</DependentUpon>
+    <Compile Include="createDirectores.aspx.cs">
+      <DependentUpon>createDirectores.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="listPeliculas.aspx.designer.cs">
-      <DependentUpon>listPeliculas.aspx</DependentUpon>
+    <Compile Include="createDirectores.aspx.designer.cs">
+      <DependentUpon>createDirectores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="directores.aspx.cs">
+      <DependentUpon>directores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="directores.aspx.designer.cs">
+      <DependentUpon>directores.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
