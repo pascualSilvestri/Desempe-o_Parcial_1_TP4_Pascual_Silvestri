@@ -16,19 +16,19 @@ CREATE TABLE Peliculas (
 
 INSERT INTO Directores ( apellido, nombre)
 VALUES 
-( 'Gonzalez', 'Juan'),
-( 'Rodriguez', 'Maria'),
-( 'Lopez', 'Carlos'),
-( 'Perez', 'Ana'),
-( 'Martinez', 'Jose');
+( 'Juana', 'De arco'),
+( 'Susana', 'oria'),
+( 'Arya', 'Daenerys'),
+( 'Goku', 'Kakaroto'),
+( 'Will', 'Smit');
 
 
 INSERT INTO Peliculas (nombre, idDirector)
 VALUES 
-( 'El viaje de Juan', 1),
-( 'Maria en el espejo', 2),
-( 'Los secretos de Carlos', 3),
-( 'Ana y el mar', 4),
-( 'El jardín de Jose', 5),
-( 'El regreso de Juan', 1),
-( 'Maria y la montaña', 2);
+( 'Deadpool', 1),
+( 'Rapido y furiozo 25', 2),
+( 'El secreto de la montaña', 3),
+( 'Boca campeon', 4),
+( 'Harry potter', 5),
+( 'El planeta de los chimpances', 1),
+( 'Lobezno', 2);
