@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\silve\\OneDrive\\Escritorio\\Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|c:\\users\\silve\\onedrive\\escritorio\\desempe\u00F1o_parcial_1_tp4_pascual_silvestri\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|c:\\users\\silve\\onedrive\\escritorio\\desempe\u00F1o_parcial_1_tp4_pascual_silvestri\\gestiondirectores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|solutionrelative:gestiondirectores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|C:\\Users\\silve\\OneDrive\\Escritorio\\Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri\\gestionpeliculas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|solutionrelative:gestionpeliculas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|c:\\users\\silve\\onedrive\\escritorio\\desempe\u00F1o_parcial_1_tp4_pascual_silvestri\\gestionpeliculas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|solutionrelative:gestionpeliculas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|C:\\Users\\silve\\OneDrive\\Escritorio\\Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|C:\\Users\\silve\\OneDrive\\Escritorio\\Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri\\gestiondirectores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{176CBB70-D24C-491A-BDDF-C5C1FFB25492}|Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri.csproj|solutionrelative:gestiondirectores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GestionPeliculas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\silve\\OneDrive\\Escritorio\\Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri\\GestionPeliculas.aspx.cs",
+              "RelativeDocumentMoniker": "GestionPeliculas.aspx.cs",
+              "ToolTip": "C:\\Users\\silve\\OneDrive\\Escritorio\\Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri\\GestionPeliculas.aspx.cs",
+              "RelativeToolTip": "GestionPeliculas.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:19:46.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Styles.css",
               "DocumentMoniker": "C:\\Users\\silve\\OneDrive\\Escritorio\\Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri\\Styles.css",
               "RelativeDocumentMoniker": "Styles.css",
@@ -34,25 +51,24 @@
               "RelativeToolTip": "Styles.css",
               "ViewState": "AQIAAIsAAAAAAAAAAAAUwKcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-09T12:43:53.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T12:43:53.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GestionPeliculas.aspx",
               "DocumentMoniker": "C:\\Users\\silve\\OneDrive\\Escritorio\\Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri\\GestionPeliculas.aspx",
               "RelativeDocumentMoniker": "GestionPeliculas.aspx",
               "ToolTip": "C:\\Users\\silve\\OneDrive\\Escritorio\\Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri\\GestionPeliculas.aspx",
               "RelativeToolTip": "GestionPeliculas.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-05-09T12:40:02.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GestionDirectores.aspx",
               "DocumentMoniker": "C:\\Users\\silve\\OneDrive\\Escritorio\\Desempe\u00F1o_Parcial_1_TP4_Pascual_Silvestri\\GestionDirectores.aspx",
               "RelativeDocumentMoniker": "GestionDirectores.aspx",
